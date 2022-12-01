@@ -5,5 +5,5 @@ main.remove("#main");
 const newHeader=document.createElement("h1");
 newHeader.h1="H1"
 newHeader.id= 'victory';
-newHeader.textContent= "<h1 id='victory'>Levy is the champion</h1>"
+newHeader.textContent="id='victory'>Levy is the champion"
 document.body.append(h1);
